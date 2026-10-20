@@ -33,6 +33,3 @@ Each frame from the camera feed is passed through the relevant detection modules
 **Tejal Karawde**
 B.Tech Data Science, Usha Mittal Institute of Technology (SNDT Women's University)
 
-Just paste that whole block into the GitHub README editor and hit Commit changes.
-
-Want to be notified when Claude responds?
